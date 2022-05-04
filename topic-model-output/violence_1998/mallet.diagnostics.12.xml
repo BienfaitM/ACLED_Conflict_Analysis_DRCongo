@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+<topic id='0' tokens='9.0000' document_entropy='1.4648' word-length='1.8000' coherence='-434.0232' uniform_dist='3.1896' corpus_dist='3.0231' eff_num_words='4.7647' token-doc-diff='0.0000' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.2408'>
+<word rank='1' count='2' prob='0.22222' cumulative='0.22222' docs='2' word-length='5.0000' coherence='0.0000' uniform_dist='0.7259' corpus_dist='0.6718' token-doc-diff='0.0000' exclusivity='0.9691'>order</word>
+<word rank='2' count='2' prob='0.22222' cumulative='0.44444' docs='2' word-length='8.0000' coherence='0.0000' uniform_dist='0.7259' corpus_dist='0.6718' token-doc-diff='0.0000' exclusivity='0.9691'>officers</word>
+<word rank='3' count='2' prob='0.22222' cumulative='0.66667' docs='2' word-length='5.0000' coherence='0.0000' uniform_dist='0.7259' corpus_dist='0.6718' token-doc-diff='0.0000' exclusivity='0.9691'>broke</word>
+<word rank='4' count='2' prob='0.22222' cumulative='0.88889' docs='2' word-length='12.0000' coherence='-5.4190' uniform_dist='0.7259' corpus_dist='0.6718' token-doc-diff='0.0000' exclusivity='0.9691'>unidentified</word>
+<word rank='5' count='1' prob='0.11111' cumulative='1.00000' docs='1' word-length='6.0000' coherence='-5.4190' uniform_dist='0.2859' corpus_dist='0.3359' token-doc-diff='0.0000' exclusivity='0.9402'>forces</word>
+</topic>
+<topic id='1' tokens='21.0000' document_entropy='2.0207' word-length='3.0500' coherence='-677.9052' uniform_dist='2.8618' corpus_dist='2.1313' eff_num_words='5.3133' token-doc-diff='0.0164' rank_1_docs='0.2500' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.4011'>
+<word rank='1' count='7' prob='0.33333' cumulative='0.33333' docs='3' word-length='8.0000' coherence='0.0000' uniform_dist='1.2240' corpus_dist='0.6808' token-doc-diff='0.0123' exclusivity='0.8291'>soldiers</word>
+<word rank='2' count='4' prob='0.19048' cumulative='0.52381' docs='4' word-length='6.0000' coherence='-0.4040' uniform_dist='0.5928' corpus_dist='0.4144' token-doc-diff='0.0012' exclusivity='0.9636'>around</word>
+<word rank='3' count='3' prob='0.14286' cumulative='0.66667' docs='3' word-length='3.0000' coherence='-5.8229' uniform_dist='0.4035' corpus_dist='0.3108' token-doc-diff='0.0009' exclusivity='0.9521'>adf</word>
+<word rank='4' count='2' prob='0.09524' cumulative='0.76190' docs='2' word-length='7.0000' coherence='-5.8229' uniform_dist='0.2304' corpus_dist='0.2072' token-doc-diff='0.0006' exclusivity='0.9299'>nyahuka</word>
+<word rank='5' count='1' prob='0.04762' cumulative='0.80952' docs='1' word-length='4.0000' coherence='-6.1099' uniform_dist='0.0822' corpus_dist='0.1036' token-doc-diff='0.0003' exclusivity='0.8696'>sent</word>
+<word rank='6' count='1' prob='0.04762' cumulative='0.85714' docs='1' word-length='7.0000' coherence='-6.1099' uniform_dist='0.0822' corpus_dist='0.1036' token-doc-diff='0.0003' exclusivity='0.8696'>ugandan</word>
+<word rank='7' count='1' prob='0.04762' cumulative='0.90476' docs='1' word-length='8.0000' coherence='-6.1099' uniform_dist='0.0822' corpus_dist='0.1036' token-doc-diff='0.0003' exclusivity='0.8696'>arrested</word>
+<word rank='8' count='1' prob='0.04762' cumulative='0.95238' docs='1' word-length='6.0000' coherence='-6.1099' uniform_dist='0.0822' corpus_dist='0.1036' token-doc-diff='0.0003' exclusivity='0.8696'>arrest</word>
+<word rank='9' count='1' prob='0.04762' cumulative='1.00000' docs='1' word-length='12.0000' coherence='-6.1099' uniform_dist='0.0822' corpus_dist='0.1036' token-doc-diff='0.0003' exclusivity='0.8696'>electroshock</word>
+</topic>
+<topic id='2' tokens='25.0000' document_entropy='1.5961' word-length='4.1000' coherence='-761.8885' uniform_dist='2.3355' corpus_dist='1.9670' eff_num_words='10.2459' token-doc-diff='0.0074' rank_1_docs='0.2857' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.5591'>
+<word rank='1' count='4' prob='0.16000' cumulative='0.16000' docs='2' word-length='4.0000' coherence='0.0000' uniform_dist='0.4701' corpus_dist='0.3202' token-doc-diff='0.0048' exclusivity='0.9569'>post</word>
+<word rank='2' count='3' prob='0.12000' cumulative='0.28000' docs='2' word-length='6.0000' coherence='0.0000' uniform_dist='0.3181' corpus_dist='0.2057' token-doc-diff='0.0010' exclusivity='0.4959'>border</word>
+<word rank='3' count='3' prob='0.12000' cumulative='0.40000' docs='3' word-length='5.0000' coherence='0.0000' uniform_dist='0.3181' corpus_dist='0.2402' token-doc-diff='0.0003' exclusivity='0.9434'>rebel</word>
+<word rank='4' count='3' prob='0.12000' cumulative='0.52000' docs='3' word-length='10.0000' coherence='-0.4040' uniform_dist='0.3181' corpus_dist='0.2402' token-doc-diff='0.0003' exclusivity='0.9434'>government</word>
+<word rank='5' count='2' prob='0.08000' cumulative='0.60000' docs='2' word-length='7.0000' coherence='-0.4040' uniform_dist='0.1796' corpus_dist='0.1601' token-doc-diff='0.0002' exclusivity='0.9176'>kamango</word>
+<word rank='6' count='2' prob='0.08000' cumulative='0.68000' docs='2' word-length='9.0000' coherence='-0.4040' uniform_dist='0.1796' corpus_dist='0.1601' token-doc-diff='0.0002' exclusivity='0.9176'>destroyed</word>
+<word rank='7' count='2' prob='0.08000' cumulative='0.76000' docs='2' word-length='6.0000' coherence='-0.4040' uniform_dist='0.1796' corpus_dist='0.1601' token-doc-diff='0.0002' exclusivity='0.9176'>uganda</word>
+<word rank='8' count='1' prob='0.04000' cumulative='0.80000' docs='1' word-length='8.0000' coherence='-5.8229' uniform_dist='0.0621' corpus_dist='0.0801' token-doc-diff='0.0001' exclusivity='0.8483'>rwenzori</word>
+<word rank='9' count='1' prob='0.04000' cumulative='0.84000' docs='1' word-length='9.0000' coherence='-5.8229' uniform_dist='0.0621' corpus_dist='0.0801' token-doc-diff='0.0001' exclusivity='0.8483'>political</word>
+<word rank='10' count='1' prob='0.04000' cumulative='0.88000' docs='1' word-length='6.0000' coherence='-5.8229' uniform_dist='0.0621' corpus_dist='0.0801' token-doc-diff='0.0001' exclusivity='0.8483'>barred</word>
+<word rank='11' count='1' prob='0.04000' cumulative='0.92000' docs='1' word-length='3.0000' coherence='-5.8229' uniform_dist='0.0621' corpus_dist='0.0801' token-doc-diff='0.0001' exclusivity='0.8483'>non</word>
+<word rank='12' count='1' prob='0.04000' cumulative='0.96000' docs='1' word-length='5.0000' coherence='-5.8229' uniform_dist='0.0621' corpus_dist='0.0801' token-doc-diff='0.0001' exclusivity='0.8483'>armed</word>
+<word rank='13' count='1' prob='0.04000' cumulative='1.00000' docs='1' word-length='4.0000' coherence='-5.8229' uniform_dist='0.0621' corpus_dist='0.0801' token-doc-diff='0.0001' exclusivity='0.8483'>dead</word>
+</topic>
+<topic id='3' tokens='13.0000' document_entropy='1.5247' word-length='3.7500' coherence='-673.5240' uniform_dist='2.4190' corpus_dist='2.6554' eff_num_words='9.9412' token-doc-diff='0.0000' rank_1_docs='0.1667' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.5075'>
+<word rank='1' count='2' prob='0.15385' cumulative='0.15385' docs='2' word-length='6.0000' coherence='0.0000' uniform_dist='0.4460' corpus_dist='0.4085' token-doc-diff='0.0000' exclusivity='0.9557'>killed</word>
+<word rank='2' count='2' prob='0.15385' cumulative='0.30769' docs='2' word-length='5.0000' coherence='-5.4190' uniform_dist='0.4460' corpus_dist='0.4085' token-doc-diff='0.0000' exclusivity='0.9557'>party</word>
+<word rank='3' count='1' prob='0.07692' cumulative='0.38462' docs='1' word-length='4.0000' coherence='-5.4190' uniform_dist='0.1697' corpus_dist='0.2043' token-doc-diff='0.0000' exclusivity='0.9154'>amid</word>
+<word rank='4' count='1' prob='0.07692' cumulative='0.46154' docs='1' word-length='6.0000' coherence='-5.4190' uniform_dist='0.1697' corpus_dist='0.2043' token-doc-diff='0.0000' exclusivity='0.9154'>months</word>
+<word rank='5' count='1' prob='0.07692' cumulative='0.53846' docs='1' word-length='5.0000' coherence='-5.4190' uniform_dist='0.1697' corpus_dist='0.2043' token-doc-diff='0.0000' exclusivity='0.9154'>three</word>
+<word rank='6' count='1' prob='0.07692' cumulative='0.61538' docs='1' word-length='10.0000' coherence='-5.4190' uniform_dist='0.1697' corpus_dist='0.2043' token-doc-diff='0.0000' exclusivity='0.9154'>solidarity</word>
+<word rank='7' count='1' prob='0.07692' cumulative='0.69231' docs='1' word-length='7.0000' coherence='-5.4190' uniform_dist='0.1697' corpus_dist='0.2043' token-doc-diff='0.0000' exclusivity='0.9154'>arrests</word>
+<word rank='8' count='1' prob='0.07692' cumulative='0.76923' docs='1' word-length='8.0000' coherence='-5.4190' uniform_dist='0.1697' corpus_dist='0.2043' token-doc-diff='0.0000' exclusivity='0.9154'>violence</word>
+<word rank='9' count='1' prob='0.07692' cumulative='0.84615' docs='1' word-length='9.0000' coherence='-5.4190' uniform_dist='0.1697' corpus_dist='0.2043' token-doc-diff='0.0000' exclusivity='0.9154'>including</word>
+<word rank='10' count='1' prob='0.07692' cumulative='0.92308' docs='1' word-length='6.0000' coherence='-5.4190' uniform_dist='0.1697' corpus_dist='0.2043' token-doc-diff='0.0000' exclusivity='0.9154'>gunmen</word>
+<word rank='11' count='1' prob='0.07692' cumulative='1.00000' docs='1' word-length='9.0000' coherence='-5.4190' uniform_dist='0.1697' corpus_dist='0.2043' token-doc-diff='0.0000' exclusivity='0.9154'>congolese</word>
+</topic>
+<topic id='4' tokens='16.0000' document_entropy='1.8364' word-length='2.7000' coherence='-650.0626' uniform_dist='2.7027' corpus_dist='2.4478' eff_num_words='7.1111' token-doc-diff='0.0000' rank_1_docs='0.1429' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.4162'>
+<word rank='1' count='3' prob='0.18750' cumulative='0.18750' docs='3' word-length='3.0000' coherence='0.0000' uniform_dist='0.5806' corpus_dist='0.4590' token-doc-diff='0.0000' exclusivity='0.9632'>drc</word>
+<word rank='2' count='3' prob='0.18750' cumulative='0.37500' docs='3' word-length='9.0000' coherence='-1.0927' uniform_dist='0.5806' corpus_dist='0.4590' token-doc-diff='0.0000' exclusivity='0.9632'>civilians</word>
+<word rank='3' count='3' prob='0.18750' cumulative='0.56250' docs='3' word-length='3.0000' coherence='-1.0927' uniform_dist='0.5806' corpus_dist='0.4590' token-doc-diff='0.0000' exclusivity='0.9632'>six</word>
+<word rank='4' count='2' prob='0.12500' cumulative='0.68750' docs='2' word-length='7.0000' coherence='-5.8229' uniform_dist='0.3364' corpus_dist='0.3060' token-doc-diff='0.0000' exclusivity='0.9459'>restore</word>
+<word rank='5' count='1' prob='0.06250' cumulative='0.75000' docs='1' word-length='4.0000' coherence='-5.8229' uniform_dist='0.1249' corpus_dist='0.1530' token-doc-diff='0.0000' exclusivity='0.8977'>also</word>
+<word rank='6' count='1' prob='0.06250' cumulative='0.81250' docs='1' word-length='7.0000' coherence='-5.8229' uniform_dist='0.1249' corpus_dist='0.1530' token-doc-diff='0.0000' exclusivity='0.8977'>injured</word>
+<word rank='7' count='1' prob='0.06250' cumulative='0.87500' docs='1' word-length='9.0000' coherence='-5.4190' uniform_dist='0.1249' corpus_dist='0.1530' token-doc-diff='0.0000' exclusivity='0.8977'>mountains</word>
+<word rank='8' count='1' prob='0.06250' cumulative='0.93750' docs='1' word-length='7.0000' coherence='-5.4190' uniform_dist='0.1249' corpus_dist='0.1530' token-doc-diff='0.0000' exclusivity='0.8977'>chuseke</word>
+<word rank='9' count='1' prob='0.06250' cumulative='1.00000' docs='1' word-length='5.0000' coherence='-5.8229' uniform_dist='0.1249' corpus_dist='0.1530' token-doc-diff='0.0000' exclusivity='0.8977'>kills</word>
+</topic>
+<topic id='5' tokens='19.0000' document_entropy='2.0138' word-length='4.3500' coherence='-774.0665' uniform_dist='2.4650' corpus_dist='2.2394' eff_num_words='7.0784' token-doc-diff='0.0000' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.5577'>
+<word rank='1' count='6' prob='0.31579' cumulative='0.31579' docs='6' word-length='8.0000' coherence='0.0000' uniform_dist='1.1425' corpus_dist='0.7187' token-doc-diff='0.0000' exclusivity='0.9777'>kinshasa</word>
+<word rank='2' count='2' prob='0.10526' cumulative='0.42105' docs='2' word-length='7.0000' coherence='-1.0957' uniform_dist='0.2652' corpus_dist='0.2396' token-doc-diff='0.0000' exclusivity='0.9362'>claimed</word>
+<word rank='3' count='1' prob='0.05263' cumulative='0.47368' docs='1' word-length='10.0000' coherence='-5.4190' uniform_dist='0.0961' corpus_dist='0.1198' token-doc-diff='0.0000' exclusivity='0.8806'>casualties</word>
+<word rank='4' count='1' prob='0.05263' cumulative='0.52632' docs='1' word-length='9.0000' coherence='-4.7302' uniform_dist='0.0961' corpus_dist='0.0833' token-doc-diff='0.0000' exclusivity='0.4346'>following</word>
+<word rank='5' count='1' prob='0.05263' cumulative='0.57895' docs='1' word-length='4.0000' coherence='-6.5146' uniform_dist='0.0961' corpus_dist='0.1198' token-doc-diff='0.0000' exclusivity='0.8806'>area</word>
+<word rank='6' count='1' prob='0.05263' cumulative='0.63158' docs='1' word-length='8.0000' coherence='-6.5146' uniform_dist='0.0961' corpus_dist='0.1198' token-doc-diff='0.0000' exclusivity='0.8806'>remnants</word>
+<word rank='7' count='1' prob='0.05263' cumulative='0.68421' docs='1' word-length='6.0000' coherence='-5.4190' uniform_dist='0.0961' corpus_dist='0.1198' token-doc-diff='0.0000' exclusivity='0.8806'>second</word>
+<word rank='8' count='1' prob='0.05263' cumulative='0.73684' docs='1' word-length='6.0000' coherence='-5.4190' uniform_dist='0.0961' corpus_dist='0.1198' token-doc-diff='0.0000' exclusivity='0.8806'>office</word>
+<word rank='9' count='1' prob='0.05263' cumulative='0.78947' docs='1' word-length='5.0000' coherence='-5.4190' uniform_dist='0.0961' corpus_dist='0.1198' token-doc-diff='0.0000' exclusivity='0.8806'>union</word>
+<word rank='10' count='1' prob='0.05263' cumulative='0.84211' docs='1' word-length='7.0000' coherence='-5.4190' uniform_dist='0.0961' corpus_dist='0.1198' token-doc-diff='0.0000' exclusivity='0.8806'>reports</word>
+<word rank='11' count='1' prob='0.05263' cumulative='0.89474' docs='1' word-length='7.0000' coherence='-5.4190' uniform_dist='0.0961' corpus_dist='0.1198' token-doc-diff='0.0000' exclusivity='0.8806'>violent</word>
+<word rank='12' count='1' prob='0.05263' cumulative='0.94737' docs='1' word-length='4.0000' coherence='-6.5146' uniform_dist='0.0961' corpus_dist='0.1198' token-doc-diff='0.0000' exclusivity='0.8806'>udps</word>
+<word rank='13' count='1' prob='0.05263' cumulative='1.00000' docs='1' word-length='6.0000' coherence='-5.4190' uniform_dist='0.0961' corpus_dist='0.1198' token-doc-diff='0.0000' exclusivity='0.8806'>driver</word>
+</topic>
+<topic id='6' tokens='16.0000' document_entropy='1.5111' word-length='4.1000' coherence='-692.9794' uniform_dist='2.4967' corpus_dist='2.2745' eff_num_words='8.5333' token-doc-diff='0.0000' rank_1_docs='0.2000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.4462'>
+<word rank='1' count='3' prob='0.18750' cumulative='0.18750' docs='3' word-length='7.0000' coherence='0.0000' uniform_dist='0.5806' corpus_dist='0.4590' token-doc-diff='0.0000' exclusivity='0.9632'>soldier</word>
+<word rank='2' count='3' prob='0.18750' cumulative='0.37500' docs='3' word-length='3.0000' coherence='0.0000' uniform_dist='0.5806' corpus_dist='0.4590' token-doc-diff='0.0000' exclusivity='0.9632'>one</word>
+<word rank='3' count='2' prob='0.12500' cumulative='0.50000' docs='2' word-length='8.0000' coherence='-0.4040' uniform_dist='0.3364' corpus_dist='0.3060' token-doc-diff='0.0000' exclusivity='0.9459'>deployed</word>
+<word rank='4' count='1' prob='0.06250' cumulative='0.56250' docs='1' word-length='11.0000' coherence='-5.4190' uniform_dist='0.1249' corpus_dist='0.1530' token-doc-diff='0.0000' exclusivity='0.8977'>riot/mutiny</word>
+<word rank='5' count='1' prob='0.06250' cumulative='0.62500' docs='1' word-length='9.0000' coherence='-4.7302' uniform_dist='0.1249' corpus_dist='0.1097' token-doc-diff='0.0000' exclusivity='0.5110'>following</word>
+<word rank='6' count='1' prob='0.06250' cumulative='0.68750' docs='1' word-length='8.0000' coherence='-4.7302' uniform_dist='0.1249' corpus_dist='0.0230' token-doc-diff='0.0000' exclusivity='0.1543'>soldiers</word>
+<word rank='7' count='1' prob='0.06250' cumulative='0.75000' docs='1' word-length='10.0000' coherence='-5.8229' uniform_dist='0.1249' corpus_dist='0.1530' token-doc-diff='0.0000' exclusivity='0.8977'>reportedly</word>
+<word rank='8' count='1' prob='0.06250' cumulative='0.81250' docs='1' word-length='8.0000' coherence='-5.8229' uniform_dist='0.1249' corpus_dist='0.1530' token-doc-diff='0.0000' exclusivity='0.8977'>employee</word>
+<word rank='9' count='1' prob='0.06250' cumulative='0.87500' docs='1' word-length='9.0000' coherence='-5.8229' uniform_dist='0.1249' corpus_dist='0.1530' token-doc-diff='0.0000' exclusivity='0.8977'>committee</word>
+<word rank='10' count='1' prob='0.06250' cumulative='0.93750' docs='1' word-length='6.0000' coherence='-5.8229' uniform_dist='0.1249' corpus_dist='0.1530' token-doc-diff='0.0000' exclusivity='0.8977'>shoots</word>
+<word rank='11' count='1' prob='0.06250' cumulative='1.00000' docs='1' word-length='3.0000' coherence='-5.8229' uniform_dist='0.1249' corpus_dist='0.1530' token-doc-diff='0.0000' exclusivity='0.8977'>man</word>
+</topic>
+<topic id='7' tokens='8.0000' document_entropy='1.4942' word-length='3.3000' coherence='-567.6273' uniform_dist='2.6912' corpus_dist='2.9676' eff_num_words='8.0000' token-doc-diff='0.0000' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.3553'>
+<word rank='1' count='1' prob='0.12500' cumulative='0.12500' docs='1' word-length='6.0000' coherence='0.0000' uniform_dist='0.3364' corpus_dist='0.2193' token-doc-diff='0.0000' exclusivity='0.4786'>border</word>
+<word rank='2' count='1' prob='0.12500' cumulative='0.25000' docs='1' word-length='8.0000' coherence='-4.7302' uniform_dist='0.3364' corpus_dist='0.3926' token-doc-diff='0.0000' exclusivity='0.9466'>civilian</word>
+<word rank='3' count='1' prob='0.12500' cumulative='0.37500' docs='1' word-length='8.0000' coherence='-4.7302' uniform_dist='0.3364' corpus_dist='0.3926' token-doc-diff='0.0000' exclusivity='0.9466'>reported</word>
+<word rank='4' count='1' prob='0.12500' cumulative='0.50000' docs='1' word-length='16.0000' coherence='-4.7302' uniform_dist='0.3364' corpus_dist='0.3926' token-doc-diff='0.0000' exclusivity='0.9466'>rioting/fighting</word>
+<word rank='5' count='1' prob='0.12500' cumulative='0.62500' docs='1' word-length='7.0000' coherence='-4.7302' uniform_dist='0.3364' corpus_dist='0.3926' token-doc-diff='0.0000' exclusivity='0.9466'>parties</word>
+<word rank='6' count='1' prob='0.12500' cumulative='0.75000' docs='1' word-length='7.0000' coherence='-4.7302' uniform_dist='0.3364' corpus_dist='0.3926' token-doc-diff='0.0000' exclusivity='0.9466'>holding</word>
+<word rank='7' count='1' prob='0.12500' cumulative='0.87500' docs='1' word-length='7.0000' coherence='-4.7302' uniform_dist='0.3364' corpus_dist='0.3926' token-doc-diff='0.0000' exclusivity='0.9466'>capital</word>
+<word rank='8' count='1' prob='0.12500' cumulative='1.00000' docs='1' word-length='7.0000' coherence='-4.7302' uniform_dist='0.3364' corpus_dist='0.3926' token-doc-diff='0.0000' exclusivity='0.9466'>working</word>
+</topic>
+<topic id='8' tokens='14.0000' document_entropy='2.1066' word-length='3.8000' coherence='-733.2322' uniform_dist='2.4661' corpus_dist='2.5813' eff_num_words='8.9091' token-doc-diff='0.0000' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.5053'>
+<word rank='1' count='3' prob='0.21429' cumulative='0.21429' docs='3' word-length='7.0000' coherence='0.0000' uniform_dist='0.6922' corpus_dist='0.5531' token-doc-diff='0.0000' exclusivity='0.9677'>january</word>
+<word rank='2' count='2' prob='0.14286' cumulative='0.35714' docs='2' word-length='10.0000' coherence='-5.8229' uniform_dist='0.4035' corpus_dist='0.3688' token-doc-diff='0.0000' exclusivity='0.9524'>opposition</word>
+<word rank='3' count='1' prob='0.07143' cumulative='0.42857' docs='1' word-length='5.0000' coherence='-5.8229' uniform_dist='0.1523' corpus_dist='0.1844' token-doc-diff='0.0000' exclusivity='0.9094'>wages</word>
+<word rank='4' count='1' prob='0.07143' cumulative='0.50000' docs='1' word-length='5.0000' coherence='-5.8229' uniform_dist='0.1523' corpus_dist='0.1844' token-doc-diff='0.0000' exclusivity='0.9094'>bwera</word>
+<word rank='5' count='1' prob='0.07143' cumulative='0.57143' docs='1' word-length='9.0000' coherence='-5.8229' uniform_dist='0.1523' corpus_dist='0.1844' token-doc-diff='0.0000' exclusivity='0.9094'>crackdown</word>
+<word rank='6' count='1' prob='0.07143' cumulative='0.64286' docs='1' word-length='8.0000' coherence='-5.8229' uniform_dist='0.1523' corpus_dist='0.1844' token-doc-diff='0.0000' exclusivity='0.9094'>entering</word>
+<word rank='7' count='1' prob='0.07143' cumulative='0.71429' docs='1' word-length='7.0000' coherence='-5.8229' uniform_dist='0.1523' corpus_dist='0.1844' token-doc-diff='0.0000' exclusivity='0.9094'>etienne</word>
+<word rank='8' count='1' prob='0.07143' cumulative='0.78571' docs='1' word-length='6.0000' coherence='-5.4190' uniform_dist='0.1523' corpus_dist='0.1844' token-doc-diff='0.0000' exclusivity='0.9094'>batons</word>
+<word rank='9' count='1' prob='0.07143' cumulative='0.85714' docs='1' word-length='3.0000' coherence='-5.8229' uniform_dist='0.1523' corpus_dist='0.1844' token-doc-diff='0.0000' exclusivity='0.9094'>red</word>
+<word rank='10' count='1' prob='0.07143' cumulative='0.92857' docs='1' word-length='13.0000' coherence='-5.8229' uniform_dist='0.1523' corpus_dist='0.1844' token-doc-diff='0.0000' exclusivity='0.9094'>international</word>
+<word rank='11' count='1' prob='0.07143' cumulative='1.00000' docs='1' word-length='3.0000' coherence='-5.8229' uniform_dist='0.1523' corpus_dist='0.1844' token-doc-diff='0.0000' exclusivity='0.9094'>car</word>
+</topic>
+<topic id='9' tokens='9.0000' document_entropy='1.6770' word-length='1.4000' coherence='-490.6043' uniform_dist='3.0356' corpus_dist='3.0231' eff_num_words='5.4000' token-doc-diff='0.0000' rank_1_docs='0.1667' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.2864'>
+<word rank='1' count='2' prob='0.22222' cumulative='0.22222' docs='2' word-length='4.0000' coherence='0.0000' uniform_dist='0.7259' corpus_dist='0.6718' token-doc-diff='0.0000' exclusivity='0.9691'>camp</word>
+<word rank='2' count='2' prob='0.22222' cumulative='0.44444' docs='2' word-length='5.0000' coherence='-5.4190' uniform_dist='0.7259' corpus_dist='0.6718' token-doc-diff='0.0000' exclusivity='0.9691'>stole</word>
+<word rank='3' count='2' prob='0.22222' cumulative='0.66667' docs='2' word-length='4.0000' coherence='-5.4190' uniform_dist='0.7259' corpus_dist='0.6718' token-doc-diff='0.0000' exclusivity='0.9691'>icrc</word>
+<word rank='4' count='1' prob='0.11111' cumulative='0.77778' docs='1' word-length='4.0000' coherence='-5.4190' uniform_dist='0.2859' corpus_dist='0.3359' token-doc-diff='0.0000' exclusivity='0.9402'>head</word>
+<word rank='5' count='1' prob='0.11111' cumulative='0.88889' docs='1' word-length='7.0000' coherence='-5.4190' uniform_dist='0.2859' corpus_dist='0.3359' token-doc-diff='0.0000' exclusivity='0.9402'>meeting</word>
+<word rank='6' count='1' prob='0.11111' cumulative='1.00000' docs='1' word-length='4.0000' coherence='-5.4190' uniform_dist='0.2859' corpus_dist='0.3359' token-doc-diff='0.0000' exclusivity='0.9402'>shot</word>
+</topic>
+<topic id='10' tokens='12.0000' document_entropy='1.0986' word-length='3.7500' coherence='-609.0944' uniform_dist='2.4013' corpus_dist='2.6777' eff_num_words='10.2857' token-doc-diff='0.0000' rank_1_docs='0.2000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.4934'>
+<word rank='1' count='2' prob='0.16667' cumulative='0.16667' docs='2' word-length='7.0000' coherence='0.0000' uniform_dist='0.4965' corpus_dist='0.4559' token-doc-diff='0.0000' exclusivity='0.9590'>members</word>
+<word rank='2' count='1' prob='0.08333' cumulative='0.25000' docs='1' word-length='6.0000' coherence='-5.4190' uniform_dist='0.1905' corpus_dist='0.2280' token-doc-diff='0.0000' exclusivity='0.9215'>unpaid</word>
+<word rank='3' count='1' prob='0.08333' cumulative='0.33333' docs='1' word-length='4.0000' coherence='-5.4190' uniform_dist='0.1905' corpus_dist='0.2280' token-doc-diff='0.0000' exclusivity='0.9215'>time</word>
+<word rank='4' count='1' prob='0.08333' cumulative='0.41667' docs='1' word-length='7.0000' coherence='-4.7302' uniform_dist='0.1905' corpus_dist='0.2280' token-doc-diff='0.0000' exclusivity='0.9215'>offices</word>
+<word rank='5' count='1' prob='0.08333' cumulative='0.50000' docs='1' word-length='4.0000' coherence='-4.7302' uniform_dist='0.1905' corpus_dist='0.2280' token-doc-diff='0.0000' exclusivity='0.9215'>udsp</word>
+<word rank='6' count='1' prob='0.08333' cumulative='0.58333' docs='1' word-length='10.0000' coherence='-4.7302' uniform_dist='0.1905' corpus_dist='0.2280' token-doc-diff='0.0000' exclusivity='0.9215'>preventing</word>
+<word rank='7' count='1' prob='0.08333' cumulative='0.66667' docs='1' word-length='10.0000' coherence='-4.7302' uniform_dist='0.1905' corpus_dist='0.2280' token-doc-diff='0.0000' exclusivity='0.9215'>tshisekedi</word>
+<word rank='8' count='1' prob='0.08333' cumulative='0.75000' docs='1' word-length='6.0000' coherence='-4.7302' uniform_dist='0.1905' corpus_dist='0.2280' token-doc-diff='0.0000' exclusivity='0.9215'>leader</word>
+<word rank='9' count='1' prob='0.08333' cumulative='0.83333' docs='1' word-length='6.0000' coherence='-4.7302' uniform_dist='0.1905' corpus_dist='0.1702' token-doc-diff='0.0000' exclusivity='0.6161'>police</word>
+<word rank='10' count='1' prob='0.08333' cumulative='0.91667' docs='1' word-length='8.0000' coherence='-4.7302' uniform_dist='0.1905' corpus_dist='0.2280' token-doc-diff='0.0000' exclusivity='0.9215'>activity</word>
+<word rank='11' count='1' prob='0.08333' cumulative='1.00000' docs='1' word-length='7.0000' coherence='-5.4190' uniform_dist='0.1905' corpus_dist='0.2280' token-doc-diff='0.0000' exclusivity='0.9215'>vehicle</word>
+</topic>
+<topic id='11' tokens='23.0000' document_entropy='2.0198' word-length='5.2000' coherence='-821.7583' uniform_dist='2.1174' corpus_dist='2.0547' eff_num_words='13.5641' token-doc-diff='0.0000' rank_1_docs='0.3000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.6439'>
+<word rank='1' count='2' prob='0.08696' cumulative='0.08696' docs='2' word-length='13.0000' coherence='0.0000' uniform_dist='0.2025' corpus_dist='0.1813' token-doc-diff='0.0000' exclusivity='0.9237'>mpondwe/bwera</word>
+<word rank='2' count='2' prob='0.08696' cumulative='0.17391' docs='2' word-length='6.0000' coherence='0.0000' uniform_dist='0.2025' corpus_dist='0.1813' token-doc-diff='0.0000' exclusivity='0.9237'>troops</word>
+<word rank='3' count='2' prob='0.08696' cumulative='0.26087' docs='2' word-length='3.0000' coherence='-5.4190' uniform_dist='0.2025' corpus_dist='0.1813' token-doc-diff='0.0000' exclusivity='0.9237'>two</word>
+<word rank='4' count='2' prob='0.08696' cumulative='0.34783' docs='2' word-length='5.0000' coherence='-5.4190' uniform_dist='0.2025' corpus_dist='0.1813' token-doc-diff='0.0000' exclusivity='0.9237'>lives</word>
+<word rank='5' count='2' prob='0.08696' cumulative='0.43478' docs='2' word-length='8.0000' coherence='-5.4190' uniform_dist='0.2025' corpus_dist='0.1813' token-doc-diff='0.0000' exclusivity='0.9237'>fighting</word>
+<word rank='6' count='2' prob='0.08696' cumulative='0.52174' docs='2' word-length='16.0000' coherence='-5.4190' uniform_dist='0.2025' corpus_dist='0.1813' token-doc-diff='0.0000' exclusivity='0.9237'>misunderstanding</word>
+<word rank='7' count='2' prob='0.08696' cumulative='0.60870' docs='2' word-length='6.0000' coherence='-5.4190' uniform_dist='0.2025' corpus_dist='0.1813' token-doc-diff='0.0000' exclusivity='0.9237'>matadi</word>
+<word rank='8' count='2' prob='0.08696' cumulative='0.69565' docs='2' word-length='5.0000' coherence='-5.4190' uniform_dist='0.2025' corpus_dist='0.1813' token-doc-diff='0.0000' exclusivity='0.9237'>shoot</word>
+<word rank='9' count='1' prob='0.04348' cumulative='0.73913' docs='1' word-length='4.0000' coherence='-5.4190' uniform_dist='0.0711' corpus_dist='0.0906' token-doc-diff='0.0000' exclusivity='0.8588'>stop</word>
+<word rank='10' count='1' prob='0.04348' cumulative='0.78261' docs='1' word-length='10.0000' coherence='-5.4190' uniform_dist='0.0711' corpus_dist='0.0906' token-doc-diff='0.0000' exclusivity='0.8588'>innovative</word>
+<word rank='11' count='1' prob='0.04348' cumulative='0.82609' docs='1' word-length='6.0000' coherence='-5.4190' uniform_dist='0.0711' corpus_dist='0.0906' token-doc-diff='0.0000' exclusivity='0.8588'>public</word>
+<word rank='12' count='1' prob='0.04348' cumulative='0.86957' docs='1' word-length='6.0000' coherence='-5.4190' uniform_dist='0.0711' corpus_dist='0.0605' token-doc-diff='0.0000' exclusivity='0.3343'>police</word>
+<word rank='13' count='1' prob='0.04348' cumulative='0.91304' docs='1' word-length='8.0000' coherence='-5.4190' uniform_dist='0.0711' corpus_dist='0.0906' token-doc-diff='0.0000' exclusivity='0.8588'>tortured</word>
+<word rank='14' count='1' prob='0.04348' cumulative='0.95652' docs='1' word-length='5.0000' coherence='-5.4190' uniform_dist='0.0711' corpus_dist='0.0906' token-doc-diff='0.0000' exclusivity='0.8588'>cross</word>
+<word rank='15' count='1' prob='0.04348' cumulative='1.00000' docs='1' word-length='3.0000' coherence='-5.4190' uniform_dist='0.0711' corpus_dist='0.0906' token-doc-diff='0.0000' exclusivity='0.8588'>nan</word>
+</topic>
+</model>
+
